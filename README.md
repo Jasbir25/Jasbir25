@@ -14,7 +14,11 @@ Hi, I'm **Jasbir Singh**, a **Master of Computer Applications (MCA)** student at
 - 🌱 My technical expertise spans **AWS, Java, Python (AI-ML), C, C++, SQL/NoSQL (MySQL, SQLite, MongoDB), Software Engineering, and Information Security**.
 - 💡 Open to **suggestions** that can improve my projects and make them more efficient.
 - 🎨 **Fun Fact**: When I'm not coding, you'll likely find me **sketching, traveling, or doing photography**! 📸
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ME1Cb1CIYJHrOxQg6i3QnALj90s2vxba/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
