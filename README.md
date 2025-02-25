@@ -19,6 +19,7 @@ Hi, I'm **Jasbir Singh**, a **Master of Computer Applications (MCA)** student at
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
