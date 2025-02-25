@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a network load balancer using reinforcement learning with Ryu and Mininet.
+- 🔭 I’m currently working on a Network Load Balancer using Reinforcement Learning with Ryu and Mininet.
 
 - 🌱 I have experience in AWS, Java, Python(AI-ML), C, C++, SQL/NoSQL, Software Engineering and Information Security.
 
