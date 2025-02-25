@@ -62,3 +62,10 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
+
+<h2> LeetCode Stats <img src="https://leetcode.com/static/images/LeetCode_logo.png" width=32px> </h2>
+<p align='center'>
+<img src="https://leetcard.jacoblin.cool/jASBIR25?theme=dark&font=Monospace" alt="LeetCode Stats">
+</p>
+
+---
