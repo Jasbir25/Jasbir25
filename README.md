@@ -11,15 +11,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently Studying MCA. 
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 🔭 I’m currently working on a network load balancer using reinforcement learning with Ryu and Mininet.
+
+- 🌱 I have experience in AWS, Java, Python(AI-ML), C, C++, SQL/NoSQL, Software Engineering and Information Security.
+
+- 👯 I’m always interested in improving my projects with new ideas and enhancements.
+
+- 💬 I appreciate suggestions on how to make my projects better and more efficient.
+
+- ⚡ Fun fact: When I’m not coding, you’ll probably find me sketching! 🎨
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Jasbir25?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
