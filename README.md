@@ -31,19 +31,30 @@ Hi, I'm **Jasbir Singh**, a **Master of Computer Applications (MCA)** student at
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### **Databases**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### **Cloud & Security**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Information Security](https://img.shields.io/badge/Security-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ### **AI/ML & Networking**
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%23F37626.svg?style=flat&logo=deepmind&logoColor=white)
 ![Ryu Controller](https://img.shields.io/badge/Ryu-004080?style=flat&logo=ryu&logoColor=white)
 ![Mininet](https://img.shields.io/badge/Mininet-1572B6?style=flat&logo=mininet&logoColor=white)
+
+### **Other Tools & Technologies**
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database%20Management-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=flat&logo=adobe&logoColor=white)
+![Photo Editing](https://img.shields.io/badge/Photo%20Editing-FFDD00?style=flat&logo=adobe-lightroom&logoColor=black)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-0078D4?style=flat&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 
