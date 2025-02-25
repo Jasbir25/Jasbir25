@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about **network optimization, artificial intelligence, and cloud computing**.
+Hi, I'm **Jasbir Singh**, a **Master of Computer Applications (MCA)** student at **PES University, Bengaluru**. I have a strong passion for **Cloud, AI, Networking, Cyber Security, and Software Development**.
 
-- 🔭 Currently developing a **Network Load Balancer using Reinforcement Learning** with **Ryu and Mininet**.
-- 🌱 Enthusiastic about **AWS, Java, Python (AI-ML), C, C++, SQL/NoSQL, Software Engineering, and Information Security**.
+- 🔭 Currently developing an **AI-Driven Network Load Balancer** using **Reinforcement Learning with Ryu and Mininet**.
+- 🌱 My technical expertise spans **AWS, Java, Python (AI-ML), C, C++, SQL/NoSQL (MySQL, SQLite, MongoDB), Software Engineering, and Information Security**.
 - 💡 Open to **suggestions** that can improve my projects and make them more efficient.
-- 🎨 **Fun Fact**: When I'm not coding, you'll likely find me **sketching**! 🖌️✨
+- 🎨 **Fun Fact**: When I'm not coding, you'll likely find me **sketching, traveling, or doing photography**! 📸
 
 ---
 
@@ -29,7 +29,6 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### **Cloud & Security**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
