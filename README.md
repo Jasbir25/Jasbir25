@@ -15,8 +15,6 @@
 
 - 🌱 I have experience in AWS, Java, Python(AI-ML), C, C++, SQL/NoSQL, Software Engineering and Information Security.
 
-- 👯 I’m always interested in improving my projects with new ideas and enhancements.
-
 - 💬 I appreciate suggestions on how to make my projects better and more efficient.
 
 - ⚡ Fun fact: When I’m not coding, you’ll probably find me sketching! 🎨
