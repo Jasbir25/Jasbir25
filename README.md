@@ -53,20 +53,18 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-| ![Jasbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&theme=tokyonight) | ![Jasbir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jasbir25&theme=tokyonight) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
----
-
 <h2> LeetCode Stats <img src="https://leetcode.com/static/images/LeetCode_logo.png" width=32px> </h2>
 <p align='center'>
 <img src="https://leetcard.jacoblin.cool/jASBIR25?theme=dark&font=Monospace" alt="LeetCode Stats">
 </p>
 
 ---
+
+## 📊 GitHub Stats & Activity
+
+| ![Jasbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&theme=tokyonight) | ![Jasbir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jasbir25&theme=tokyonight) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <div align='center'>
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
