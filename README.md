@@ -66,5 +66,9 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Jasbir25?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
+  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
 </p>
