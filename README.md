@@ -61,13 +61,26 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
 ---
 
 ## 📊 GitHub Stats & Activity
-
-| ![Jasbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&theme=tokyonight) | ![Jasbir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jasbir25&theme=tokyonight) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<p align="center">
   
 <p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&theme=tokyonight" alt="Jasbir's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasbir25&theme=tokyonight" alt="Jasbir's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25&theme=tokyonight" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars" />
+      </td>
+    </tr>
+  </table>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
