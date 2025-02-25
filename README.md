@@ -83,6 +83,8 @@ Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about
   </table>
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
