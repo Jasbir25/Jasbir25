@@ -8,8 +8,6 @@
 
 ## 🚀 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px">
 
-<img align="right" width="50%" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 Hi, I'm **Jasbir**! Thanks for visiting my GitHub profile. I am passionate about **network optimization, artificial intelligence, and cloud computing**.
 
 - 🔭 Currently developing a **Network Load Balancer using Reinforcement Learning** with **Ryu and Mininet**.
