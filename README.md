@@ -87,7 +87,9 @@ Hi, I'm **Jasbir Singh**, a **Master of Computer Applications (MCA)** student at
     </tr>
     <tr>
       <td align="center">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25)](https://github.com/anuraghazra/github-readme-stats)
+        ```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasbir25)](https://github.com/Jasbir25/github-readme-stats)
+```
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Jasbir25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars" />
